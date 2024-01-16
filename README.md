@@ -2,12 +2,18 @@
 # Assignment2
  
 ## _URL:_
-https:///
+[https:///](https://noamcm.github.io/PackmanGame/)
 ## _Our details:_ :woman_technologist: :woman_technologist:
 - Shiri Itach 
 - Noam Cohen Maguri 
 
 
+## _LogIn Information:_
+You can Sign in for a new user, or use deafult user information:
+- username : k
+- password : k
+
+  
 ## _Functionality:_
 - Welcome Page.
 - Registration Page :  
