@@ -2,7 +2,7 @@
 # Assignment2
  
 ## _URL:_
-[[https:///](https://noamcm.github.io/PackmanGame/)](https://noamcm.github.io/PackmanGame/)
+[(https://noamcm.github.io/PackmanGame/)](https://noamcm.github.io/PackmanGame/)
 ## _Our details:_ :woman_technologist: :woman_technologist:
 - Shiri Itach 
 - Noam Cohen Maguri 
